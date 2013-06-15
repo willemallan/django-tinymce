@@ -71,7 +71,7 @@ Testing
 Verify that everything is installed and configured properly:
 
 #. Setup an isolated environment with `virtualenv`_ and activate environment::
-    
+
     virtualenv --no-site-packages env
     . env/bin/activate
 
@@ -143,7 +143,7 @@ Example::
   TINYMCE_JS_URL = 'http://debug.example.org/tiny_mce/tiny_mce_src.js'
   TINYMCE_DEFAULT_CONFIG = {
       'plugins': "table,spellchecker,paste,searchreplace",
-      'theme': "advanced",
+      'theme': "modern",
       'cleanup_on_startup': True,
       'custom_undo_redo_levels': 10,
   }
