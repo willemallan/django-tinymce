@@ -39,13 +39,8 @@ Documentation:
 ===
 http://django-tinymce.readthedocs.org/
 
-Support and updates:
-===
-You can contact me directly at aljosa.mohorovic@gmail.com, track updates at https://twitter.com/maljosa or use github issues.
-Be persistent and bug me, I often find myself lost in time so ping me if you're still waiting for me to answer.
-
 License (and related information):
 ===
-Originally written by Joost Cassee.
+Originally written by Willem Allan.
 
 This program is licensed under the MIT License (see LICENSE.txt)

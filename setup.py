@@ -12,8 +12,8 @@ setup(
     version = version,
     packages = find_packages(),
     include_package_data = True,
-    author = "Aljosa Mohorovic",
-    author_email = "aljosa.mohorovic@gmail.com",
+    author = "Willem Allan",
+    author_email = "willemarf@gmail.com",
     description = "A Django application that contains a widget to render a" \
             " form field as a TinyMCE editor.",
     long_description = \
@@ -84,5 +84,5 @@ This program is licensed under the MIT License (see LICENSE.txt)
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     platforms = ['any'],
-    url = "https://github.com/aljosa/django-tinymce",
+    url = "https://github.com/willemallan/django-tinymce",
 )
